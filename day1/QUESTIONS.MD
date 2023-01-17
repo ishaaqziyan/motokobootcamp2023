@@ -1,5 +1,6 @@
 1.How much is the current memory capacity of a canister?
 Answer => A Canister can hold up to 4GB
+<br>
 
 2.What is the issue with the following code sample?
 actor {
@@ -12,8 +13,7 @@ actor {
 Answer => The issue in this code is that i we use let we cannot assign it to another variable.
           So the fix is, <b>using var instead of let.<b>
 
-
-
+<br>
 What is the issue with the following code sample?
 actor {
   var message : Text = 0;
