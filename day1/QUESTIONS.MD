@@ -5,7 +5,7 @@ Answer => A Canister can hold up to 4GB
 2.What is the issue with the following code sample?
 
 Answer => The issue in this code is that i we use let we cannot assign it to another variable.
-          So the fix is, <b>using var instead of let.<b>
+          So the fix is, <b>using var instead of let.</b>
 
 <br>
 3.What is the issue with the following code sample?
