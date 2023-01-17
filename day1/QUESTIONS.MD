@@ -1,5 +1,5 @@
 1.How much is the current memory capacity of a canister?
-Answer => A Canister can hold up to 4GB
+Answer => A Canister can hold up to 48GB as of December 2022
 <br>
 
 2.What is the issue with the following code sample?
